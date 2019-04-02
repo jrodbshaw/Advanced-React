@@ -4,5 +4,20 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#FFC600",
     "titleBar.inactiveBackground": "#FFC600CC"
-  }
+  },
+  "cSpell.words": [
+    "heroku",
+    "lightgrey",
+    "maxwidth",
+    "medium",
+    "next",
+    "nprogress",
+    "offwhite",
+    "postbuild",
+    "radnika",
+    "radnikanext",
+    "signup",
+    "webfont",
+    "woff"
+  ]
 }
